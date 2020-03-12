@@ -1,8 +1,5 @@
 <?php
 //データベースハンドラ
-   // $dsn = 'mysql:dbname=tb210902db;host=localhost';
-//	$user = 'tb-210902';
-  //  $password = 'w5AXhaMSvU';
   $dsn = 'データベース名';
 	$user = 'ユーザー名';
     $password = 'パスワード';
